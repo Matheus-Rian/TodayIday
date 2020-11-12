@@ -1,5 +1,6 @@
 # É vivendo e aprendendo
 > Davyd Maker
+
 Quase 00:00, o Davyd convidou a galera para falar sobre alguns conceitos que ele aprendeu do back-end.
 *Mesmo não tendo nenhum contato com o back eu fui lá para aprender e porque sou curioso também hahaha*
 
