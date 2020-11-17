@@ -76,6 +76,8 @@ export default (props) => {
 Antes de começar a usar os Estados eu tenho que importar ele.
 > import React, { useState } from 'react'
 
+O useState vai retornar um array com dois elementos, o 1° é o valor e o 2° é a função que vai mudar/atualizar o valor.
+
 Em seguida eu crio uma const com o destructuting com o meu estado, exemplo: 
 
 ``` React
