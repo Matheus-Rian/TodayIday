@@ -1,0 +1,3 @@
+Não é bem uma frase, mas sim um desabafo. Hoje foi um dia complicado, porque não estou conseguindo fazer algumas coisas, como por exemplo, programar em react. Eu sei que é algo novo pra mim, mas bate uma insegurança. Hoje eu pensei se programação era realmente pra mim(sou um idiota), quando as dificuldades aparecem eu começo a me perguntar se realmente consigo fazer/aprender algumas coisas. Mas logo em seguida, eu me animo e corro átras para resolver o problema. Sou novo(17 anos), acredito que é normal sentir insegurança no começo da sua carreira. O importante é continuar...vivendo e aprendendo!
+
+> Não tenho medo de errar, só medo de desistir - Lagum
