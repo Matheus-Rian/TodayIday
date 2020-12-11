@@ -41,3 +41,4 @@ Select Codigo,
   <Group by> Profissao
   <Having> Count(1) > 0
 <Order by> Nome, Codigo
+
