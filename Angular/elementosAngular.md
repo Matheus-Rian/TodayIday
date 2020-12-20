@@ -21,7 +21,10 @@
 
 - **Altera a aparência e o comportamento de um elemento, componente ou outra diretiva.**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4de0abc-7226-4960-8cdd-11adde82eec1/screenshot-www.udemy.com-2020.12.16-08_14_20.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4de0abc-7226-4960-8cdd-11adde82eec1/screenshot-www.udemy.com-2020.12.16-08_14_20.png)
+<p align="center">
+  <img src="./decorator.png" alt='Decorator' width="100%">
+</p>
+
 
 - **Decorator:** Objetivo de evitar herança e trabalhar com componetização(Vem sempre com um @)
 
@@ -79,7 +82,7 @@ Quando queremos mudar de rotas, iremos mudar a url e os componentes.
 
 **Exemplo:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cf73a6b-82ca-40a3-92dd-c8d0b86320a9/screenshot-www.udemy.com-2020.12.16-21_40_53.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cf73a6b-82ca-40a3-92dd-c8d0b86320a9/screenshot-www.udemy.com-2020.12.16-21_40_53.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cf73a6b-82ca-40a3-92dd-c8d0b86320a9/screenshot-www.udemy.com-2020.12.16-21_40_53.png](screenshot-www.udemy.com-2020.12.16-21_40_53.png)
 
 # 4- Pipes |
 
