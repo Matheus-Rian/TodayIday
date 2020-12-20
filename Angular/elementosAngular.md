@@ -13,7 +13,9 @@
 
 - O componente tem o seu próprio mundo. As alterações feitas nele não vai conflitar com os outros componentes.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/682f642b-09a7-4c67-b1a9-6f6ebe834cda/screenshot-www.udemy.com-2020.12.16-08_17_15.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/682f642b-09a7-4c67-b1a9-6f6ebe834cda/screenshot-www.udemy.com-2020.12.16-08_17_15.png)
+<p align="center">
+  <img src="../images/componenteAngular.png" alt='Componente Angular' width="50%">
+</p>
 
 # 2- Diretivas
 
@@ -22,7 +24,7 @@
 - **Altera a aparência e o comportamento de um elemento, componente ou outra diretiva.**
 
 <p align="center">
-  <img src="../images/decorator.png" alt='Decorator' width="100%">
+  <img src="../images/decorator.png" alt='Decorator' width="50%">
 </p>
 
 
@@ -31,7 +33,7 @@
 **Exemplo:**
 
 <p align="center">
-  <img src="../images/decoratorAppRed.png" alt='Decorator' width="100%">
+  <img src="../images/decoratorAppRed.png" alt='Decorator' width="50%">
 </p>
 
 ## Structural Directives
@@ -42,7 +44,7 @@
 **Exemplos:**
 
 <p align="center">
-  <img src="../images/structuralDirectives.png" alt='Decorator' width="100%">
+  <img src="../images/structuralDirectives.png" alt='structuralDirectives' width="50%">
 </p>
 
 - No primeiro exemplo, só vai ser exibido o form se o product for true.
@@ -55,48 +57,58 @@
 **Exemplo:**
 
 <p align="center">
-  <img src="../images/propertyBinding.png" alt='Decorator' width="100%">
+  <img src="../images/propertyBinding.png" alt='property Binding' width="50%">
 </p>
 
 Quando eu coloco no meu html uma variável entre **[]**, eu estou dizendo que ela vai pegar o valor de products(nesse caso) lá no TS.
-
 ## Event Binding
 
 - Comunicação/ligação entre o HTML e TS, por meio de ().
 
 **Exemplo:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/056c42d7-ba40-4921-bfb5-800f50262699/screenshot-www.udemy.com-2020.12.16-08_47_51.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/056c42d7-ba40-4921-bfb5-800f50262699/screenshot-www.udemy.com-2020.12.16-08_47_51.png)
+<p align="center">
+  <img src="../images/eventBinding.png" alt='Event Binding' width="50%">
+</p>
 
 Quando o button for clicado, vai ser chamado o método "createProdutct()"
-
 ## Two Way Data Binding
 
 - Automatizar o tráfego de dados entre a View(HTML) e o Model(TypeScript).
 
 **Exemplo:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68f9797b-f41d-4258-af50-bd99eae40592/screenshot-www.udemy.com-2020.12.16-21_28_36.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68f9797b-f41d-4258-af50-bd99eae40592/screenshot-www.udemy.com-2020.12.16-21_28_36.png)
+<p align="center">
+  <img src="../images/twoWay.png" alt='property Binding' width="50%">
+</p>
 
 Se o Model muda, atualiza a View, e caso a View mude, atualiza o Model.
-
 # 3- Rotas (Angular Router)
 
 Quando queremos mudar de rotas, iremos mudar a url e os componentes.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17c17883-b552-4cc4-97b3-03c7624243e5/screenshot-www.udemy.com-2020.12.16-21_38_08.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17c17883-b552-4cc4-97b3-03c7624243e5/screenshot-www.udemy.com-2020.12.16-21_38_08.png)
+<p align="center">
+  <img src="../images/rotas.png" alt='Rotas' width="50%">
+</p>
 
 **Exemplo:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cf73a6b-82ca-40a3-92dd-c8d0b86320a9/screenshot-www.udemy.com-2020.12.16-21_40_53.png](screenshot-www.udemy.com-2020.12.16-21_40_53.png)
+<p align="center">
+  <img src="../images/rotas(2).png" alt='Rotas' width="50%">
+</p>
 
 # 4- Pipes |
 
 - Processamentos feitos encima de variavéis.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a30585e0-a4d4-47cf-8b50-e61f38a3c92d/screenshot-www.udemy.com-2020.12.16-21_45_23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a30585e0-a4d4-47cf-8b50-e61f38a3c92d/screenshot-www.udemy.com-2020.12.16-21_45_23.png)
+<p align="center">
+  <img src="../images/pipes.png" alt='Pipes' width="50%">
+</p>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/646286a1-7896-4cdf-9b5e-9a4d4929eeb6/screenshot-www.udemy.com-2020.12.16-21_47_02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/646286a1-7896-4cdf-9b5e-9a4d4929eeb6/screenshot-www.udemy.com-2020.12.16-21_47_02.png)
+
+<p align="center">
+  <img src="../images/pipes(2).png" alt='Pipes' width="50%">
+</p>
 
 **Chaining - Encadeamento**
 
@@ -106,18 +118,28 @@ Quando queremos mudar de rotas, iremos mudar a url e os componentes.
 
 - Programação Reativa - é um modelo de programação sobre fluxos de dados, potencialmente assíncronos, em combinação com consumo/roteamento de eventos e propagação de estado.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7033d9b5-03d3-4812-a149-6e5deabd1211/screenshot-www.udemy.com-2020.12.16-21_58_51.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7033d9b5-03d3-4812-a149-6e5deabd1211/screenshot-www.udemy.com-2020.12.16-21_58_51.png)
+<p align="center">
+  <img src="../images/observables(1).png" alt='Observables' width="50%">
+</p>
 
 - **Padrão Observer** - Padrão de Projeto mais utilizado da web
 
 - **Padrão orientado a Evento!**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6329a1a4-7403-44cc-91b7-4afcb262ce7d/screenshot-www.udemy.com-2020.12.16-22_10_42.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6329a1a4-7403-44cc-91b7-4afcb262ce7d/screenshot-www.udemy.com-2020.12.16-22_10_42.png)
+<p align="center">
+  <img src="../images/observables(2).png" alt='Observables' width="50%">
+</p>
 
 ### Entendendo Observables
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec82c02b-9d16-4a20-ab33-5933bd41e5bb/screenshot-www.udemy.com-2020.12.16-22_19_54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec82c02b-9d16-4a20-ab33-5933bd41e5bb/screenshot-www.udemy.com-2020.12.16-22_19_54.png)
+
+<p align="center">
+  <img src="../images/observables(3).png" alt='Observables' width="50%">
+</p>
+
 
 **Exemplo:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8c56a9f-4e6a-427e-b1cc-4040978c2773/screenshot-www.udemy.com-2020.12.16-22_23_04.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8c56a9f-4e6a-427e-b1cc-4040978c2773/screenshot-www.udemy.com-2020.12.16-22_23_04.png)
+<p align="center">
+  <img src="../images/observables(4).png" alt='Observables' width="50%">
+</p>
