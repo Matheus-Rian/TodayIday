@@ -22,7 +22,7 @@
 - **Altera a aparência e o comportamento de um elemento, componente ou outra diretiva.**
 
 <p align="center">
-  <img src="./decorator.png" alt='Decorator' width="100%">
+  <img src="../images/decorator.png" alt='Decorator' width="100%">
 </p>
 
 
@@ -30,7 +30,9 @@
 
 **Exemplo:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a421035e-af6e-40cb-b4d7-04df9f55e206/screenshot-www.udemy.com-2020.12.16-08_28_23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a421035e-af6e-40cb-b4d7-04df9f55e206/screenshot-www.udemy.com-2020.12.16-08_28_23.png)
+<p align="center">
+  <img src="../images/decoratorAppRed.png" alt='Decorator' width="100%">
+</p>
 
 ## Structural Directives
 
@@ -39,7 +41,9 @@
 
 **Exemplos:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de7e71bc-ef55-4954-ada9-9cbd1fa7ae04/screenshot-www.udemy.com-2020.12.16-08_31_45.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de7e71bc-ef55-4954-ada9-9cbd1fa7ae04/screenshot-www.udemy.com-2020.12.16-08_31_45.png)
+<p align="center">
+  <img src="../images/structuralDirectives.png" alt='Decorator' width="100%">
+</p>
 
 - No primeiro exemplo, só vai ser exibido o form se o product for true.
 - No segundo exemplo, ele vai acrescentar novos elementos. Caso tenha 10 produtos, vai ser gerado 10 <li> com o product
@@ -50,7 +54,9 @@
 
 **Exemplo:**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce744249-f811-4b60-b072-151b63ccf446/screenshot-www.udemy.com-2020.12.16-08_44_21.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce744249-f811-4b60-b072-151b63ccf446/screenshot-www.udemy.com-2020.12.16-08_44_21.png)
+<p align="center">
+  <img src="../images/propertyBinding.png" alt='Decorator' width="100%">
+</p>
 
 Quando eu coloco no meu html uma variável entre **[]**, eu estou dizendo que ela vai pegar o valor de products(nesse caso) lá no TS.
 
