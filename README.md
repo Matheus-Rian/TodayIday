@@ -9,7 +9,7 @@
 
 ### :pushpin: Objetivo
 
-<p style="font-family: roboto;">O objetivo principal deste repositório é registrar e tornar público alguns conhecimentos que aprendo a cada dia no mundo da programação. Futuremente desejo publicar artigos e melhorar o conteúdo deste repositório para torna-lo de fácil entendimento.</p>
+<p style="font-family: roboto;">O objetivo principal deste repositório é registrar e tornar público alguns conhecimentos que aprendo a cada dia no mundo da programação.</p> <p style="font-family: roboto;">Futuramente desejo publicar artigos e melhorar o conteúdo deste repositório para torna-lo de fácil entendimento, até mesmo para iniciantes.</p>
 
 ### :trident: Autor 
 
