@@ -3,11 +3,11 @@
 
 <h1 style="font-family: roboto;" align='center'>
   <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=Aiqfome'></img>
-  <img src='https://img.shields.io/static/v1?label=Evoluindo&message=Always&color=4169E1&style=for-the-badge&logo=Accenture'></img>
+  <img src='https://img.shields.io/static/v1?label=Evolving&message=Always&color=4169E1&style=for-the-badge&logo=Accenture'></img>
   <img src='https://img.shields.io/static/v1?label=TodayIday&message=2.0&color=2E8B57&style=for-the-badge&logo=Twoo'></img>
 </h1>
 
-### :pushpin: objective
+### :pushpin: Objective
 
 <p style="font-family: roboto;">The main objective of this repository is to register and make public some knowledge that I learn every day in the world of programming.</p> <p style="font-family: roboto;">In the future I want to publish articles and improve the content of this repository to make it easy to understand, even for beginners.</p>
 
