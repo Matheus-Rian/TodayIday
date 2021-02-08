@@ -12,3 +12,11 @@ console.log(names.length); // Retorna a quantidade de elementos dentro do array(
 let positionPrimary = names[0] // Para acessar um item do array é usado: nameArray[index]
 
 console.log(positionPrimary)
+
+// * 3 - Iterar um array
+
+names.forEach(function (item, indice, array) {
+  console.log(item, indice);
+});
+// Matheus 0
+// Rodrigo 1
