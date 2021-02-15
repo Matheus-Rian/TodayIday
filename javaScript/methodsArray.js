@@ -51,4 +51,10 @@ console.log(index)
 var removedItem = names.splice(index, 1); // é assim que se remove um item
 // ['Rodrigo']
 
+// * 10 Every - testa se todos os elementos do array passam pelo teste implementado pela função fornecida.
 
+function isBigEnough(element, index, array) {
+  return element >= 10;
+}
+[12, 5, 8, 130, 44].every(isBigEnough);   // false
+[12, 54, 18, 130, 44].every(isBigEnough); // true
