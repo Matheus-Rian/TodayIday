@@ -58,3 +58,11 @@ function isBigEnough(element, index, array) {
 }
 [12, 5, 8, 130, 44].every(isBigEnough);   // false
 [12, 54, 18, 130, 44].every(isBigEnough); // true
+
+// * 11 - concat() retorna um novo array contendo todos os arrays ou valores passados como parâmetro.
+
+let alpha = ["a", "b", "c"];
+let numeric = [1, 2, 3];
+
+
+let alphaNumeric = alpha.concat(numeric);
