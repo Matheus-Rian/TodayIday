@@ -1,7 +1,10 @@
+# Primeiros passos
+
+## O que é Jasmine?
+
 Jasmine é um ***framework behavior-driven development(BDD)*** para testar nossas features em Javascript. A sintaxe é bem intuitiva, o que faz com que escrever testes se torne uma tarefa fácil.
 
 - BDD significa Desenvolvimento Orientado por Comportamento . O BDD é uma extensão do TDD onde, em vez de escrever os casos de teste , começamos escrevendo um comportamento . ... BDD é considerado uma prática recomendada quando se trata de testes automatizados , pois se concentra no comportamento do aplicativo e não em pensar na implementação do código
-
 ## Partiu praticar?
 
 - Estrutura completa
