@@ -5,3 +5,6 @@
 
 2. Tenha calma...
 > Ter calma é essência para se manter e conseguir resolver os problemas.
+
+3. Divida o problema em várias partes e, em seguida, resolva cada parte de forma isolada.
+> Transforme um problema impossível de resolver, em vários probleminhas que são possíveis encontrar a solução.
