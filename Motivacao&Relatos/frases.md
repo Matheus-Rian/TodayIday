@@ -8,3 +8,6 @@
 
 3. Divida o problema em várias partes e, em seguida, resolva cada parte de forma isolada.
 > Transforme um problema impossível de resolver, em vários probleminhas que são possíveis encontrar a solução.
+
+4. O mundo pode fazer tudo por você, menos a sua parte.
+> Faz a tua parte e além disso, ajuda as pessoas a sua volta.
