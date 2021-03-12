@@ -11,3 +11,6 @@
 
 4. O mundo pode fazer tudo por você, menos a sua parte.
 > Faz a tua parte e além disso, ajuda as pessoas a sua volta.
+
+5. Se exponha, sem medo. Faça a diferença na vida das pessoas e principalmente na sua.
+>  Ajude as pessoas compartilhando seu conhecimento e trazendo soluções para facilitar a vida delas.
