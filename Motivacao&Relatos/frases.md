@@ -14,3 +14,6 @@
 
 5. Se exponha, sem medo. Faça a diferença na vida das pessoas e principalmente na sua.
 >  Ajude as pessoas compartilhando seu conhecimento e trazendo soluções para facilitar a vida delas.
+
+6. Seja um exemplo para alguém.
+> Isso vai lhe motivar a ser uma pessoa melhor. Pense que pessoas se inspiram/espelham em você, então seja o melhor exemplo possível!
