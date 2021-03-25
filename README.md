@@ -21,4 +21,4 @@
 
 Made with ❤️ by Matheus Rian :point_right: Get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/matheus-rian-19b81a183/) [![Gmail Badge](https://img.shields.io/badge/-souzamatheusrian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamatheusrian@gmail.com)](souzamatheusrian@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/matheus-riann/) [![Gmail Badge](https://img.shields.io/badge/-souzamatheusrian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamatheusrian@gmail.com)](souzamatheusrian@gmail.com)
