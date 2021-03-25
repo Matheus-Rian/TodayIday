@@ -17,3 +17,6 @@
 
 6. Seja um exemplo para alguém.
 > Isso vai lhe motivar a ser uma pessoa melhor. Pense que pessoas se inspiram/espelham em você, então seja o melhor exemplo possível!
+
+7. Se as coisas estão difíceis, é porque estamos na direção certa!
+> As melhores conquistas vem dos piores momentos.
