@@ -20,3 +20,9 @@
 
 7. Se as coisas estão difíceis, é porque estamos na direção certa!
 > As melhores conquistas vem dos piores momentos.
+
+8. Eu vi a chance brilhar diante dos meus olhos, tentei!
+> E se não brilhar, eu vou mesmo assim!
+
+9. Eu só paro de sonhar quando parar meu coração!
+> Vamos com tudo!
