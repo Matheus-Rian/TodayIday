@@ -26,3 +26,6 @@
 
 9. Eu só paro de sonhar quando parar meu coração!
 > Vamos com tudo!
+
+10. Eu não posso voltar átras, essa escolha eu fiz a uns anos átras.
+> Agora que entrei, só paro quando zerar!
