@@ -29,3 +29,5 @@
 
 10. Eu não posso voltar átras, essa escolha eu fiz a uns anos átras.
 > Agora que entrei, só paro quando zerar!
+
+11. Quanto mais eu aprendo, mais eu preciso aprender.
