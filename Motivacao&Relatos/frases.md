@@ -31,3 +31,4 @@
 > Agora que entrei, só paro quando zerar!
 
 11. Quanto mais eu aprendo, mais eu preciso aprender.
+> E rápido, porque tem bug pra resolver hahaha
