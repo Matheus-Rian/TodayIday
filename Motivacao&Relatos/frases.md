@@ -32,3 +32,5 @@
 
 11. Quanto mais eu aprendo, mais eu preciso aprender.
 > E rápido, porque tem bug pra resolver hahaha
+
+12. A vida é bela.
