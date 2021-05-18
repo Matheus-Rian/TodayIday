@@ -51,7 +51,7 @@ console.log(index)
 var removedItem = names.splice(index, 1); // é assim que se remove um item
 // ['Rodrigo']
 
-// * 10 Every - testa se todos os elementos do array passam pelo teste implementado pela função fornecida.
+// * 10 Every() - testa se todos os elementos do array passam pelo teste implementado pela função fornecida.
 
 function isBigEnough(element, index, array) {
   return element >= 10;
@@ -64,5 +64,15 @@ function isBigEnough(element, index, array) {
 let alpha = ["a", "b", "c"];
 let numeric = [1, 2, 3];
 
-
 let alphaNumeric = alpha.concat(numeric);
+
+// * 12 - Copia parte de um array para outra localização dentro deste mesmo array e o retorna, sem alterar seu tamanho. 
+
+[1, 2, 3, 4, 5].copyWithin(0, 3);
+// [4, 5, 3, 4, 5]
+
+[1, 2, 3, 4, 5].copyWithin(0, 3, 4);
+// [4, 2, 3, 4, 5]
+
+[1, 2, 3, 4, 5].copyWithin(0, -2, -1);
+// [4, 2, 3, 4, 5]
