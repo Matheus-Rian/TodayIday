@@ -34,3 +34,4 @@
 > E rápido, porque tem bug pra resolver hahaha
 
 12. A vida é bela.
+// Foco no objetivo
