@@ -7,8 +7,7 @@
 > Ter calma é essência para se manter e conseguir resolver os problemas.
 
 3. Divida o problema em várias partes e, em seguida, resolva cada parte de forma isolada.
-> Transforme um problema impossível de resolver, em vários probleminhas que são possíveis encontrar a solução.
-
+> Transforme um problema impossível de resolver, em vários probleminhas que são possíveis encontrar a soluçã
 4. O mundo pode fazer tudo por você, menos a sua parte.
 > Faz a tua parte e além disso, ajuda as pessoas a sua volta.
 
@@ -31,7 +30,9 @@
 > Agora que entrei, só paro quando zerar!
 
 11. Quanto mais eu aprendo, mais eu preciso aprender.
-> E rápido, porque tem bug pra resolver hahaha
+> E rápido, porque tem bug pra resolver hahaha...
 
 12. A vida é bela.
-// Foco no objetivo
+> Foco no objetivo!
+
+13. Não é a linguagem de programação que define o programador, mas sim sua lógica.
