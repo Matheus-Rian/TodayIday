@@ -36,3 +36,6 @@
 > Foco no objetivo!
 
 13. Não é a linguagem de programação que define o programador, mas sim sua lógica.
+> Sempre evoluir a lógica.
+
+14. Já perdi a conta de quantas vezes o CSS fez eu pensar em desistir do front-end.
