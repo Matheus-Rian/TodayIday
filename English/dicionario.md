@@ -1,6 +1,7 @@
 # Dicionário 
 
-* Atualizar - update
-* Usado - used
+* Update - Atualizar
+* Used - usado
 * More - Mais
 * Less - Menos
+* Useful - Úteis
