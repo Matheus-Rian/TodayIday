@@ -7,3 +7,4 @@
 * Useful - Úteis
 * See you - Te vejo
 * Slang - Gíria
+* Driver - Motorista
