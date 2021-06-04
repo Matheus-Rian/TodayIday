@@ -37,3 +37,22 @@
 28. She is a teacher.
 29. She is a waitress.
 29.1. He is a waiter.
+
+## Questions(Examples)
+
+* What's your occupation/profession?
+> I am a waiter.
+> **O *a* é utilizado quando o occupation começa com som de consoante.**
+
+> I am an actor.
+> **O *an* é utilizado quando o occupation começa com som de vogal.**
+
+* What do you do?
+> I *act* in movies and plays.
+> I prepare and cook dishes.
+> I treat people.
+> I help and protect people.
+> I answer the phone and talk to people.
+> I go to school and study.
+> I serve people in restaurants.
+> I help people, sell or rent houses or apartments.

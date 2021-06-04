@@ -8,3 +8,6 @@
 * See you - Te vejo
 * Slang - Gíria
 * Driver - Motorista
+* Movies - Filme/Cinema
+* Plays(substantivo) - Peça teatral
+* Dishes - Louças/prato(receita)
