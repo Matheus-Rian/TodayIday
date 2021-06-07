@@ -11,3 +11,5 @@
 * Movies - Filme/Cinema
 * Plays(substantivo) - Peça teatral
 * Dishes - Louças/prato(receita)
+* Where - onde/de onde(tem que ter o from na frase)
+* What O que/Qual
