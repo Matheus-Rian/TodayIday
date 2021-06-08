@@ -13,3 +13,5 @@
 * Dishes - Louças/prato(receita)
 * Where - onde/de onde(tem que ter o from na frase)
 * What O que/Qual
+* His - Dele/Seu(masculino)
+* Her - Dela/Seu(Feminino)
