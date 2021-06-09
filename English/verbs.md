@@ -16,3 +16,4 @@
 * To buy - comprar;
 * To sell - vender;
 * To rent - alugar;
+* To spell - soletrar;

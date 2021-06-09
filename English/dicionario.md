@@ -15,3 +15,5 @@
 * What O que/Qual
 * His - Dele/Seu(masculino)
 * Her - Dela/Seu(Feminino)
+* How - Como
+* Can - pode
