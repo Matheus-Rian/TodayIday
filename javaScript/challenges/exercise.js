@@ -25,34 +25,57 @@ A pessoa é considerada "muito suspeita" se:
 
 Por fim, Cooper comentou que uma pessoa só é inocente se ela tiver álibi e que os casos que sobrarem podem ser contabilizados como "pouco suspeitos". */
 
-let pessoaInterrogada = prompt('Qual seu nome?');
-console.log(interrogatorio(pessoaInterrogada));
+const suspect = prompt('Qual seu nome?');
 
-function interrogatorio(pessoa) {
-	const perguntas = {
-		pergunta1: confirm('Você conhecia a vítima?'),
-		pergunta2: confirm('Você estava nos arredores do local do crime?'),
-		pergunta3: confirm('Você tem algum álibi?'),
-		pergunta4: confirm('Você já brigou por qualquer motivo com a vítima?'),
-		pergunta5: confirm('Você já havia cometido algum crime semelhante antes?')
-	};
-	
+console.log(Interrogate(suspect))
 
-	const culpada = perguntas.pergunta1 && perguntas.pergunta2 && !perguntas.pergunta3 && (perguntas.pergunta4 || perguntas.pergunta5);
+function getResults(suspectAnswers) {
 
-	const muitoSuspeita = (perguntas.pergunta1 && perguntas.pergunta2 && !perguntas.pergunta3 && !perguntas.pergunta4 && !perguntas.pergunta5) || 
-  (!perguntas.pergunta1 && !perguntas.pergunta2 && !perguntas.pergunta3 && perguntas.pergunta5) 
-  || (perguntas.pergunta1 && (perguntas.pergunta2 || perguntas.pergunta4));
+  const Results = {
+    Innocent: 'Innocent',
+    verySuspicious: 'Very Suspicious',
+    lessSuspicious: 'Less Suspicious',
+    guilty: 'Guilty',
+  }
 
-	if (perguntas.pergunta3) {
-		pessoa = 'Inocente';
-	} else if (culpada) {
-		pessoa = 'Culpada';
-	} else if (muitoSuspeita) {
-		pessoa = 'Muito suspeita'
-	} else {
-		pessoa = 'Pouco Suspeita'
-	}
+  const {
+    knewVictim,
+    wasAround,
+    hasAlibi,
+    foughtVictim,
+    hasComittedCrime,
+  } = suspectAnswers
 
-	return pessoa
+  const conditions = {
+    guilty: knewVictim && wasAround && !hasAlibi && (foughtVictim || hasComittedCrime),
+    verySuspicious: (knewVictim && wasAround && !hasAlibi && !foughtVictim && !hasComittedCrime) ||
+      (!knewVictim && !wasAround && !hasAlibi && hasComittedCrime) ||
+      (knewVictim && (wasAround || foughtVictim)),
+  }
+
+
+  if (hasAlibi) return Results.Innocent
+
+  if (conditions.guilty) {
+    return Results.guilty
+  } else if (conditions.verySuspicious) {
+    return Results.verySuspicious
+  } else {
+    return Results.lessSuspicious
+  }
 }
+
+function Interrogate(suspect) {
+  const questions = {
+    knewVictim: confirm('Você conhecia a vítima?'),
+    wasAround: confirm('Você estava nos arredores do local do crime?'),
+    hasAlibi: confirm('Você tem algum álibi?'),
+    foughtVictim: confirm('Você já brigou por qualquer motivo com a vítima?'),
+    hasComittedCrime: confirm('Você já havia cometido algum crime semelhante antes?')
+  };
+
+  const result = getResults(questions)
+
+  return result
+}
+
