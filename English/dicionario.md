@@ -16,4 +16,5 @@
 * His - Dele/Seu(masculino)
 * Her - Dela/Seu(Feminino)
 * How - Como
-* Can - pode
+* Can - Pode
+* Half - metade
