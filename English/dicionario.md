@@ -18,3 +18,4 @@
 * How - Como
 * Can - Pode
 * Half - metade
+* Tired - Cansado.
