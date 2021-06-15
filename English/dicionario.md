@@ -18,4 +18,8 @@
 * How - Como
 * Can - Pode
 * Half - metade
-* Tired - Cansado.
+* Tired - Cansado
+* Every - Todo/Cada
+* Once a - Uma vez
+* Twice a - duas vezes
+* Work - trabalhar/funcionar
