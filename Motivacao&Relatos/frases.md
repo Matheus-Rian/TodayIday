@@ -41,3 +41,6 @@
 
 14. Já perdi a conta de quantas vezes o CSS fez eu pensar em desistir do front-end.
 > Eu vou conseguir, fé!
+
+15. "Não há elevador para o sucesso, você precisa subir as escadas"- Zig Ziglar
+> Continue a subir, continue a subir.
