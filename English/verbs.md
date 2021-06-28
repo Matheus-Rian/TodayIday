@@ -17,3 +17,4 @@
 * To sell - vender;
 * To rent - alugar;
 * To spell - soletrar;
+* To live - morar/viver;

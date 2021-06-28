@@ -23,3 +23,6 @@
 * Once a - Uma vez
 * Twice a - duas vezes
 * Work - trabalhar/funcionar
+* Country - país/zona rural
+* Neighborhood - vizinhança/bairro
+* land line - linha fixa(telefone fixo)
