@@ -18,3 +18,4 @@
 * To rent - alugar;
 * To spell - soletrar;
 * To live - morar/viver;
+* To do - fazer;

@@ -26,3 +26,4 @@
 * Country - país/zona rural
 * Neighborhood - vizinhança/bairro
 * land line - linha fixa(telefone fixo)
+* want - quer
