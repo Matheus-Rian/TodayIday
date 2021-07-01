@@ -27,3 +27,10 @@
 * Neighborhood - vizinhança/bairro
 * land line - linha fixa(telefone fixo)
 * want - quer
+* trip - viagem
+* flowers - flores
+* gas - gás/gasolina/combustível
+* letters - cartas
+* post card - cartão postal
+* many - muitas/muitos;
+* wild - selvagem;
