@@ -34,3 +34,7 @@
 * post card - cartão postal
 * many - muitas/muitos;
 * wild - selvagem;
+* lost - perdido;
+* is there - há/existe
+* near here - Perto daqui
+* Drugstore - farmácia
