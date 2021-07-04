@@ -44,3 +44,6 @@
 
 15. "Não há elevador para o sucesso, você precisa subir as escadas"- Zig Ziglar
 > Continue a subir, continue a subir.
+
+16. Esteja aberto para aprender coisas novas.
+> Sempre
