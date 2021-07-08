@@ -47,3 +47,6 @@
 
 16. Esteja aberto para aprender coisas novas.
 > Sempre
+
+17. 1000 Commit.
+> Com muito esforço e suor.
