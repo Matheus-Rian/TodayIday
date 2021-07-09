@@ -50,3 +50,6 @@
 
 17. 1000 Commit.
 > Com muito esforço e suor.
+
+18. Foque no seu sistema, rotina... E não em metas.
+> Jogue para continuar jogando e não para vencer.
