@@ -53,3 +53,6 @@
 
 18. Foque no seu sistema, rotina... E não em metas.
 > Jogue para continuar jogando e não para vencer.
+
+19. Mantenha a calma.
+> Não importa a situação, manter a calma.
