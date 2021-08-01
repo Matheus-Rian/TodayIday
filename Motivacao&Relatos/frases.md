@@ -56,3 +56,6 @@
 
 19. Mantenha a calma.
 > Não importa a situação, manter a calma.
+
+20. Para dar 5 passos pra frente, precisamos voltar alguns.
+> Para dar impulso.
