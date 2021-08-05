@@ -59,3 +59,6 @@
 
 20. Para dar 5 passos pra frente, precisamos voltar alguns.
 > Para dar impulso!!
+
+21. Está dífícil? Tudo bem, mantenha a calma.
+> Toda vez que eu surtar, vou colocar uma nova frase sobre manter a calma.
