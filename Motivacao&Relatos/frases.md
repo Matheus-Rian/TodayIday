@@ -62,3 +62,6 @@
 
 21. Está dífícil? Tudo bem, mantenha a calma.
 > Toda vez que eu surtar, vou colocar uma nova frase sobre manter a calma.
+
+22. Pensamentos criam sentimentos > sentimentos criam comportamentos > comportamentos reforçam pensamentos.
+> Ciclo emocional.
