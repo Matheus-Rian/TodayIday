@@ -65,3 +65,6 @@
 
 22. Pensamentos criam sentimentos > sentimentos criam comportamentos > comportamentos reforçam pensamentos.
 > Ciclo emocional.
+
+23. Use o poder do sorriso.
+> Faz bem.
