@@ -68,3 +68,6 @@
 
 23. Use o poder do sorriso.
 > Faz bem.
+
+24. Pare, reflita, observe e responda.
+> Prod
