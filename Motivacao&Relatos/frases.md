@@ -70,4 +70,7 @@
 > Faz bem.
 
 24. Pare, reflita, observe e responda.
-> Prod
+> PROD
+
+25. É a expectativa de uma experiência recompensadora que nos motiva agir.
+> Hábitos Atômicos
