@@ -74,3 +74,5 @@
 
 25. É a expectativa de uma experiência recompensadora que nos motiva agir.
 > Hábitos Atômicos
+
+26. Corre, corre
