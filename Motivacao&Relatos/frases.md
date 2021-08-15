@@ -76,3 +76,4 @@
 > Hábitos Atômicos
 
 26. Corre, corre
+> E corre denovo.
