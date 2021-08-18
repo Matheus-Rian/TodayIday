@@ -77,3 +77,6 @@
 
 26. Corre, corre
 > E corre denovo.
+
+27. It's not just about ideas.
+> It's about making ideas happen do it.
