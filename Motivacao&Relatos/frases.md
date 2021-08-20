@@ -80,3 +80,6 @@
 
 27. It's not just about ideas.
 > It's about making ideas happen do it.
+
+28. Estou cansado.
+> Partiu dormir para recarregar.
