@@ -83,3 +83,7 @@
 
 28. Estou cansado.
 > Partiu dormir para recarregar.
+
+29. O resultado do programa é relativo o nível de conhecimento do programador.
+> Rangelthr
+    
