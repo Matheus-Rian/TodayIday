@@ -86,4 +86,6 @@
 
 29. O resultado do programa é relativo o nível de conhecimento do programador.
 > Rangelthr
+
+30. Programador: “É simples, pode ser composto. Se firma no concreto e torna-se, abstrato.”
     
