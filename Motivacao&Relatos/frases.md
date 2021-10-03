@@ -88,4 +88,6 @@
 > Rangelthr
 
 30. Programador: “É simples, pode ser composto. Se firma no concreto e torna-se, abstrato.”
+
+31. Não jogue para ganhar, jogue para continuar jogando...
     
