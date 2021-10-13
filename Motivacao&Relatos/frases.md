@@ -90,4 +90,5 @@
 30. Programador: “É simples, pode ser composto. Se firma no concreto e torna-se, abstrato.”
 
 31. Não jogue para ganhar, jogue para continuar jogando...
-    
+
+32. Isso quase nunca acontece é outra maneira de dizer isso acontece
