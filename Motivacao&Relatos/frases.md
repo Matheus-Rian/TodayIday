@@ -92,3 +92,5 @@
 31. Não jogue para ganhar, jogue para continuar jogando...
 
 32. Isso quase nunca acontece é outra maneira de dizer isso acontece
+
+33. Ajude outras pessoas!
