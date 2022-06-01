@@ -53,3 +53,44 @@
 
 18. Foque no seu sistema, rotina... E não em metas.
 > Jogue para continuar jogando e não para vencer.
+
+19. Mantenha a calma.
+> Não importa a situação, manter a calma.
+
+20. Para dar 5 passos pra frente, precisamos voltar alguns.
+> Para dar impulso!!
+
+21. Está dífícil? Tudo bem, mantenha a calma.
+> Toda vez que eu surtar, vou colocar uma nova frase sobre manter a calma.
+
+22. Pensamentos criam sentimentos > sentimentos criam comportamentos > comportamentos reforçam pensamentos.
+> Ciclo emocional.
+
+23. Use o poder do sorriso.
+> Faz bem.
+
+24. Pare, reflita, observe e responda.
+> PROD
+
+25. É a expectativa de uma experiência recompensadora que nos motiva agir.
+> Hábitos Atômicos
+
+26. Corre, corre
+> E corre denovo.
+
+27. It's not just about ideas.
+> It's about making ideas happen do it.
+
+28. Estou cansado.
+> Partiu dormir para recarregar.
+
+29. O resultado do programa é relativo o nível de conhecimento do programador.
+> Rangelthr
+
+30. Programador: “É simples, pode ser composto. Se firma no concreto e torna-se, abstrato.”
+
+31. Não jogue para ganhar, jogue para continuar jogando...
+
+32. Isso quase nunca acontece é outra maneira de dizer isso acontece
+
+33. Ajude outras pessoas!
